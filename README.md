@@ -1,5 +1,7 @@
 # YOLOv8 Object Detection Using Laptop Camera
-
+## DATE: 19/8/2026
+## Name: Jeevanantham C
+## Register No.: 212225240059
 ## Aim
 
 To access the **laptop camera**, capture an image, and detect objects using **YOLOv8**.
